@@ -10,3 +10,5 @@ Recreate the same Printf function in C, with the same behaviors.
 - %x or %X: Used to print hexadecimal numbers
 - %p: Used to print pointers
 - %%: Used to print the % character
+
+<img src="https://github.com/sagigbriela/ft_printf/blob/main/grade_printf.png?raw=true">
